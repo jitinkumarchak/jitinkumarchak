@@ -1,18 +1,78 @@
-# 💫 About Me:
-👋 Hi, I’m Jitin Kumar Chak<br>🚀 Full-Stack Developer | MERN Stack | Problem Solver<br><br>I build scalable web applications with clean UI, solid backend logic, and real-world use cases. Currently focused on full-stack development, internships, and high-impact projects.<br><br>🔭 I’m currently working on<br><br>CampusVerse – an all-in-one platform connecting college students across campuses<br><br>Full-stack web apps using MERN + TypeScript<br><br>Improving DSA & system thinking for interviews<br><br>👯 I’m looking to collaborate on<br><br>MERN stack projects<br><br>Startup ideas / early-stage products<br><br>Open-source projects with real users<br><br>🤝 I’m looking for help with<br><br>Advanced DSA & interview preparation<br><br>Backend scalability & architecture<br><br>Production-level best practices<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms<br><br>System Design (basics → intermediate)<br><br>Backend optimization & clean architecture<br><br>💬 Ask me about<br><br>React, Node.js, Express, MongoDB<br><br>TypeScript, REST APIs<br><br>Building MVPs & startup execution<br><br>🛠️ Tech Stack<br><br>Frontend<br><br>React.js, TypeScript, JavaScript<br><br>Tailwind CSS, HTML, CSS<br><br>Backend<br><br>Node.js, Express.js<br><br>MongoDB, REST APIs<br><br>Tools & Others<br><br>Git & GitHub<br><br>Postman<br><br>VS Code<br><br>📌 Featured Projects<br><br>CampusVerse – Student networking & community platform<br><br>More projects coming soon (actively building)<br><br>📫 How to reach me<br><br>LinkedIn: (https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/)<br><br>Email: (jitinkumarchak@gmail.com)<br><br>⚡ Fun fact<br><br>I don’t just build projects — I execute ideas with real-world intent.
+# 👋 Hi, I’m Jitin Kumar Chak
 
+**Full-Stack Developer (MERN) | TypeScript | Startup Builder**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jitinkumarchak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jitin Kumar Chak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@iamjitin_11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jitinkumarchak@gmail.com) 
+I build production-ready web applications with clean UI, scalable backend logic, and real-world use cases.  
+Currently focused on **internships, full-stack development, and interview-level problem solving**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jitinkumarchak&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jitinkumarchak&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jitinkumarchak&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 What I’m Working On
+- **CampusVerse** – a student networking & community platform across colleges  
+- Full-stack applications using **MERN + TypeScript**  
+- Strengthening **DSA & system design fundamentals**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🤝 Open to Collaborate On
+- MERN stack projects  
+- Early-stage startup ideas / MVPs  
+- Open-source projects with real users
+
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms  
+- Backend scalability & clean architecture  
+- System design (basics → intermediate)
+
+---
+
+## 💬 Ask Me About
+- React, Node.js, Express, MongoDB  
+- TypeScript & REST APIs  
+- Building MVPs from scratch
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React, Next.js  
+- TypeScript, JavaScript  
+- Tailwind CSS  
+
+**Backend**
+- Node.js, Express  
+- MongoDB, MySQL  
+- JWT, REST APIs  
+
+**Tools**
+- Git & GitHub  
+- Postman  
+- Vercel, Supabase  
+- VS Code
+
+---
+
+## 📌 Featured Project
+**CampusVerse**  
+Student networking & community platform focused on collaboration, clubs, and opportunities.  
+*(Actively building & iterating)*
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=jitinkumarchak&show_icons=true&theme=blueberry&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&layout=compact&theme=blueberry)
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/  
+- **Email:** jitinkumarchak@gmail.com  
+- **Twitter (X):** https://x.com/iamjitin_11  
+
+---
+
+⚡ *I don’t just build projects — I execute ideas with real-world intent.*
