@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jitin-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitin-kumar-chak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitin42013@gmail.com)
 
 </div>
@@ -12,7 +12,7 @@
 
 I'm a **Full-Stack Developer** and **Founder** passionate about building scalable web applications that solve real-world problems. Currently pursuing B.Tech in Computer Science at IK Gujral Punjab Technical University with a CGPA of 8.24/10.
 
-- 🔭 Currently working on **[CampusVerse](https://campusverse.in)** - A comprehensive student platform
+- 🔭 Currently working on **[CampusVerse](https://campusverse.co.in)** - A comprehensive student platform
 - 🌱 Learning advanced system design and cloud architecture
 - 💼 Open to collaborating on innovative projects
 - ⚡ Fun fact: I led a 3-member team to build a full-scale startup project while still in college!
@@ -49,7 +49,7 @@ I'm a **Full-Stack Developer** and **Founder** passionate about building scalabl
 
 ## 🌟 Featured Projects
 
-### 🎓 [CampusVerse](https://campusverse.in)
+### 🎓 [CampusVerse](https://campusverse.co.in)
 **Founder & Lead Engineer** | *2025 - Present*
 
 A comprehensive student platform revolutionizing campus life with integrated features for communication, collaboration, and career development.
@@ -147,7 +147,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 - 💼 [Portfolio](https://jitin-dev.vercel.app/)
 - 📧 [Email](mailto:jitin42013@gmail.com)
-- 💬 [LinkedIn](https://www.linkedin.com/in/jitin-kumar-chak)
+- 💬 [LinkedIn](https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/)
 
 ---
 
