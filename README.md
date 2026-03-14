@@ -50,7 +50,7 @@ I'm a **Full-Stack Developer** and **Founder** passionate about building scalabl
 ## 🌟 Featured Projects
 
 ### 🎓 [CampusVerse](https://campusverse.co.in)
-**Founder & Lead Engineer** | *2025 - Present*
+**Founder & Lead Engineer** | *2025 - 2026*
 
 A comprehensive student platform revolutionizing campus life with integrated features for communication, collaboration, and career development.
 
