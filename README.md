@@ -1,35 +1,173 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jitin Kumar chak
-=========================================================================================================================================
+<div align="center">
 
-Software Developer
-------------------
+<!-- Animated SVG Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jitin%20Kumar%20Chak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
-* 🌍  I'm based in Uttar Pradesh , India
-* 🖥️  See my portfolio at [Jitin.dev](http://jitin-dev.vercel.app/)
-* ✉️  You can contact me at [Jitin42013@gmail.com](mailto:Jitin42013@gmail.com)
-* 🚀  I'm currently working on [campusverse](http://campusverse.co.in)
-* 🧠  I'm currently learning Django.
-* 👥  I'm looking to collaborate on Real Problem Solving Projects.
-* 💬  Ask me about Little secret , I have superpowers.
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+CampusVerse+%F0%9F%8F%AB;React+%7C+Next.js+%7C+Node.js+Enthusiast;Open+to+Real+Problem+Solving+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a>
-</p>
+<br/>
 
-### Socials
+<!-- Profile Views + Social Badges -->
+<img src="https://komarev.com/ghpvc/?username=jitinkumarchak&label=Profile%20Views&color=ec4899&style=flat-square" alt="Profile Views"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.x.com/iamjitin_11">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:Jitin42013@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="http://jitin-dev.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
 
-<p align="left"> <a href="https://www.github.com/jitinkumarchak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/iamjitin_11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/jitinkumarchak"><img src="https://github-readme-stats.vercel.app/api?username=jitinkumarchak&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="jitinkumarchak's GitHub stats" /></a>
+## 🧑‍💻 About Me
 
-<a href="http://www.github.com/jitinkumarchak"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jitinkumarchak&stroke=a855f7&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+```typescript
+const jitin = {
+  name      : "Jitin Kumar Chak",
+  location  : "Uttar Pradesh, India 🇮🇳",
+  role      : "Software Developer",
+  portfolio : "jitin-dev.vercel.app",
+  current   : "Building CampusVerse 🏫",
+  learning  : ["Django", "System Design"],
+  collab    : "Real Problem Solving Projects",
+  secret    : "I have superpowers 🦸",
+  contact   : "Jitin42013@gmail.com",
+};
+```
 
-<a href="https://github.com/jitinkumarchak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+## 🚀 What I'm Up To
 
-<div width="100%" align="center"><a href="https://github.com/jitinkumarchak/DSA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=DSA&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/jitinkumarchak/campusverseV1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=campusverseV1&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+| 🔭 Working On | 🧠 Learning | 👥 Looking For | 💬 Ask Me About |
+|:---:|:---:|:---:|:---:|
+| [CampusVerse](http://campusverse.co.in) | Django | Real Problem Solving Collabs | My secret superpowers ⚡ |
 
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🎨 Design & DevTools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jitinkumarchak&show_icons=true&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=0d1117&hide_border=true&border_radius=10" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&langs_count=8&layout=compact&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=0d1117&hide_border=true&border_radius=10" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jitinkumarchak&stroke=a855f7&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true&border_radius=10" width="70%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jitinkumarchak&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/jitinkumarchak/campusverseV1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=campusverseV1&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=0d1117&hide_border=true&border_radius=10" width="45%"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/jitinkumarchak/DSA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=DSA&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=0d1117&hide_border=true&border_radius=10" width="45%"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitinkumarchak&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&hide_border=true&radius=8" width="100%"/>
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jitinkumarchak/jitinkumarchak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> 💡 *To enable the snake animation, add a GitHub Action to your profile repo that generates the SVG. See [platane/snk](https://github.com/platane/snk) for setup.*
+
+---
+
+<div align="center">
+
+### 💜 Let's connect and build something amazing together!
+
+<a href="https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/">
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+&nbsp;
+<a href="http://jitin-dev.vercel.app/">
+  <img src="https://img.shields.io/badge/See%20My%20Work-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
