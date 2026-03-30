@@ -1,160 +1,35 @@
-# Hi there, I'm Jitin Kumar Chak 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jitin Kumar chak
+=========================================================================================================================================
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jitin-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitin42013@gmail.com)
+Software Developer
+------------------
 
-</div>
+* 🌍  I'm based in Uttar Pradesh , India
+* 🖥️  See my portfolio at [Jitin.dev](http://jitin-dev.vercel.app/)
+* ✉️  You can contact me at [Jitin42013@gmail.com](mailto:Jitin42013@gmail.com)
+* 🚀  I'm currently working on [campusverse](http://campusverse.co.in)
+* 🧠  I'm currently learning Django.
+* 👥  I'm looking to collaborate on Real Problem Solving Projects.
+* 💬  Ask me about Little secret , I have superpowers.
 
-## 🚀 About Me
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a>
+</p>
 
-I'm a **Full-Stack Developer** and **Founder** passionate about building scalable web applications that solve real-world problems. Currently pursuing B.Tech in Computer Science at IK Gujral Punjab Technical University with a CGPA of 8.24/10.
+### Socials
 
-- 🔭 Currently working on **[CampusVerse](https://campusverse.co.in)** - A comprehensive student platform
-- 🌱 Learning advanced system design and cloud architecture
-- 💼 Open to collaborating on innovative projects
-- ⚡ Fun fact: I led a 3-member team to build a full-scale startup project while still in college!
+<p align="left"> <a href="https://www.github.com/jitinkumarchak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/iamjitin_11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-## 💻 Tech Stack
+<b>My GitHub Stats</b>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<a href="http://www.github.com/jitinkumarchak"><img src="https://github-readme-stats.vercel.app/api?username=jitinkumarchak&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="jitinkumarchak's GitHub stats" /></a>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+<a href="http://www.github.com/jitinkumarchak"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jitinkumarchak&stroke=a855f7&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<a href="https://github.com/jitinkumarchak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<b>Top Repositories</b>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div width="100%" align="center"><a href="https://github.com/jitinkumarchak/DSA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=DSA&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/jitinkumarchak/campusverseV1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=campusverseV1&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-## 🌟 Featured Projects
-
-### 🎓 [CampusVerse](https://campusverse.co.in)
-**Founder & Lead Engineer** | *2025 - 2026*
-
-A comprehensive student platform revolutionizing campus life with integrated features for communication, collaboration, and career development.
-
-**Key Features:**
-- 💬 Real-time chat and messaging system
-- 🎯 Clubs, events, and community management
-- 📝 Blogging platform and forums
-- 💼 Internship opportunities portal
-- 🏆 Student leaderboards and achievements
-
-**Tech Stack:** React, Node.js, Supabase, Redux, Tailwind CSS, Framer Motion
-
-**Highlights:**
-- Built scalable architecture serving multiple user roles
-- Implemented role-based access control and authentication
-- Led a 3-member engineering team using Agile methodologies
-- Deployed responsive frontend with optimized performance
-
----
-
-### 🎬 [StreamVerse](https://streamverse-demo.vercel.app)
-**Full-Stack Developer** | *2023 - 2024*
-
-A modern movie and TV streaming platform offering seamless content discovery and streaming experience.
-
-**Features:**
-- 🔍 Advanced search and filtering system
-- 🎥 Integrated trailers and trending content
-- 📱 Fully responsive design
-- 🎭 Genre-based categorization
-
-**Tech Stack:** React, Vite, Tailwind CSS, TMDB API
-
----
-
-### 🏥 Hospital Management System
-**Backend Developer** | *2024 - 2025*
-
-Enterprise-level hospital management system with comprehensive patient and staff management capabilities.
-
-**Features:**
-- 👥 Patient, appointment, and billing management
-- 🔐 Secure role-based authentication (Doctors, Staff, Admins)
-- 📊 Optimized reporting and analytics
-- 🗄️ Efficient database schema design
-
-**Tech Stack:** Node.js, Express.js, MongoDB
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitinkumarchak&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jitinkumarchak&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 Achievements
-
-- 🥇 **Cipherthon 2.0 Hackathon** - Built and shipped a working prototype (2024)
-- 📜 **Machine Learning Certification** - Internshala (97%)
-- 🚀 **Founder & CEO** of CampusVerse startup project
-- 👨‍💼 **Leadership Experience** - Managed 3-member development team
-
-## 📈 Experience
-
-**CampusVerse** | *Founder & Lead Engineer*  
-*2025 - Present*
-- Founded and architected a comprehensive student platform from ground up
-- Developed responsive React frontend with Redux state management
-- Implemented real-time APIs and authentication systems
-- Led engineering team using Agile sprints and GitHub workflows
-
-## 🎯 What I'm Working On
-
-- 🔨 Scaling CampusVerse to support multiple universities
-- 📚 Learning advanced cloud architecture and microservices
-- 🌐 Contributing to open-source projects
-- 📖 Writing technical blogs about my development journey
-
-## 💡 Skills Beyond Code
-
-- 🎨 **UI/UX Thinking** - Creating intuitive user experiences
-- 🤝 **Leadership** - Managing cross-functional teams
-- 🧩 **Problem Solving** - Breaking down complex challenges
-- 🗣️ **Collaboration** - Working effectively in team environments
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 [Portfolio](https://jitin-dev.vercel.app/)
-- 📧 [Email](mailto:jitin42013@gmail.com)
-- 💬 [LinkedIn](https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/)
-
----
-
-<div align="center">
-  
-### 💭 *"Building products that matter, one commit at a time."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=jitinkumarchak&color=blueviolet&style=for-the-badge)
-
-</div>
