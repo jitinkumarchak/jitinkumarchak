@@ -98,7 +98,24 @@ const jitin = {
 
 ## 📊 GitHub Stats
 
-[![jitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitinkumarchak)](https://github.com/jitinkumarchak/github-readme-stats)
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jitinkumarchak&show_icons=true&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=0d1117&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&langs_count=8&layout=compact&title_color=ec4899&text_color=a855f7&bg_color=0d1117&hide_border=true&border_radius=10" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=jitinkumarchak&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=ec4899&fire=ec4899&currStreakLabel=ec4899&sideLabels=a855f7&dates=a855f7&currStreakNum=a855f7&sideNums=a855f7" alt="GitHub Streak" width="60%"/>
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -108,6 +125,19 @@ const jitin = {
 
 ---
 
+## 📌 Featured Projects
+
+<div align="center">
+<a href="https://github.com/jitinkumarchak/campusverseV1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=campusverseV1&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=0d1117&hide_border=true&border_radius=10" alt="CampusVerse" />
+</a>
+&nbsp;
+<a href="https://github.com/jitinkumarchak/DSA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=DSA&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=0d1117&hide_border=true&border_radius=10" alt="DSA" />
+</a>
+</div>
+
+---
 
 ## 📈 Contribution Graph
 
