@@ -108,19 +108,6 @@ const jitin = {
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-<a href="https://github.com/jitinkumarchak/campusverseV1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=campusverseV1&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=0d1117&hide_border=true&border_radius=10" alt="CampusVerse" />
-</a>
-&nbsp;
-<a href="https://github.com/jitinkumarchak/DSA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=DSA&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=0d1117&hide_border=true&border_radius=10" alt="DSA" />
-</a>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
