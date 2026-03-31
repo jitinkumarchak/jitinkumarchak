@@ -98,24 +98,12 @@ const jitin = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jitinkumarchak&show_icons=true&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=0d1117&hide_border=true&border_radius=10" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&langs_count=8&layout=compact&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=0d1117&hide_border=true&border_radius=10" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jitinkumarchak&stroke=a855f7&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true&border_radius=10" width="70%"/>
-
-</div>
-
----
+[![jitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitinkumarchak)](https://github.com/jitinkumarchak/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jitinkumarchak&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jitinkumarchak&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -123,15 +111,13 @@ const jitin = {
 ## 📌 Featured Projects
 
 <div align="center">
-
 <a href="https://github.com/jitinkumarchak/campusverseV1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=campusverseV1&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=0d1117&hide_border=true&border_radius=10" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=campusverseV1&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=0d1117&hide_border=true&border_radius=10" alt="CampusVerse" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/jitinkumarchak/DSA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=DSA&title_color=ec4899&text_color=a855f7&icon_color=64748b&bg_color=0d1117&hide_border=true&border_radius=10" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=DSA&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=0d1117&hide_border=true&border_radius=10" alt="DSA" />
 </a>
-
 </div>
 
 ---
@@ -139,18 +125,8 @@ const jitin = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitinkumarchak&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&hide_border=true&radius=8" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitinkumarchak&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
 </div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jitinkumarchak/jitinkumarchak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> 💡 *To enable the snake animation, add a GitHub Action to your profile repo that generates the SVG. See [platane/snk](https://github.com/platane/snk) for setup.*
 
 ---
 
