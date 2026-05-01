@@ -55,7 +55,7 @@ const jitin = {
 
 | 🔭 Working On | 🧠 Learning | 👥 Looking For | 💬 Ask Me About |
 |:---:|:---:|:---:|:---:|
-| [CampusVerse](http://campusverse.co.in) | Django | Real Problem Solving Collabs | My secret superpowers ⚡ |
+| PulseNet | Django | Real Problem Solving Collabs | My secret superpowers ⚡ |
 
 ---
 
