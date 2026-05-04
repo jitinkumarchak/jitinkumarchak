@@ -1,38 +1,5 @@
 <div align="center">
 
-<!-- Animated SVG Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jitin%20Kumar%20Chak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+CampusVerse+%F0%9F%8F%AB;React+%7C+Next.js+%7C+Node.js+Enthusiast;Open+to+Real+Problem+Solving+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile Views + Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=jitinkumarchak&label=Profile%20Views&color=ec4899&style=flat-square" alt="Profile Views"/>
-&nbsp;
-<a href="https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.x.com/iamjitin_11">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:Jitin42013@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="http://jitin-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## 🧑‍💻 About Me
 
 ```typescript
