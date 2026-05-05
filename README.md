@@ -1,133 +1,57 @@
+# Hi there, I'm Jitin Kumar Chak 👋
+
+* 🚀 Building **CampusVerse** – a global student platform
+* 💻 Frontend-focused Full Stack Developer (React, Next.js)
+* 🧠 Solving DSA & building scalable systems
+* 📫 Reach me at: **[jitin42013@gmail.com](mailto:jitin42013@gmail.com)**
+* 🌐 Portfolio: [Your Portfolio Link]
+
+---
+
+## ⚡ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge\&logo=redux)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge\&logo=tailwindcss)
+
+---
+
+## 🧠 What I’m Building
+
+### 🚀 CampusVerse
+
+* 🌍 Global student networking platform
+* 💬 Real-time chat, events, internships, blogs
+* 🧑‍💻 Full-stack architecture (React + Node + PostgreSQL)
+* ⚡ Scalable APIs with RBAC, JWT, pagination
+
+---
+
+## 📈 GitHub Stats
+ 
 <div align="center">
-
-## 🧑‍💻 About Me
-
-```typescript
-const jitin = {
-  name      : "Jitin Kumar Chak",
-  location  : "Uttar Pradesh, India 🇮🇳",
-  role      : "Software Developer",
-  portfolio : "jitin-dev.vercel.app",
-  current   : "Building CampusVerse 🏫",
-  learning  : ["Django", "System Design"],
-  collab    : "Real Problem Solving Projects",
-  secret    : "I have superpowers 🦸",
-  contact   : "Jitin42013@gmail.com",
-};
-```
-
----
-
-## 🚀 What I'm Up To
-
-| 🔭 Working On | 🧠 Learning | 👥 Looking For | 💬 Ask Me About |
-|:---:|:---:|:---:|:---:|
-| PulseNet | Django | Real Problem Solving Collabs | My secret superpowers ⚡ |
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🎨 Design & DevTools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jitinkumarchak&show_icons=true&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=0d1117&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&langs_count=8&layout=compact&title_color=ec4899&text_color=a855f7&bg_color=0d1117&hide_border=true&border_radius=10" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://streak-stats.demolab.com?user=jitinkumarchak&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=ec4899&fire=ec4899&currStreakLabel=ec4899&sideLabels=a855f7&dates=a855f7&currStreakNum=a855f7&sideNums=a855f7" alt="GitHub Streak" width="60%"/>
-
+![Jitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+ 
 </div>
 
----
+## 🌐 Connect With Me
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jitinkumarchak&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](YOUR_LINK)
 
 ---
 
-## 📌 Featured Projects
+## ⚡ Fun Fact
 
-<div align="center">
-<a href="https://github.com/jitinkumarchak/campusverseV1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=campusverseV1&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=0d1117&hide_border=true&border_radius=10" alt="CampusVerse" />
-</a>
-&nbsp;
-<a href="https://github.com/jitinkumarchak/DSA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitinkumarchak&repo=DSA&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=0d1117&hide_border=true&border_radius=10" alt="DSA" />
-</a>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitinkumarchak&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-<div align="center">
-
-### 💜 Let's connect and build something amazing together!
-
-<a href="https://www.linkedin.com/in/jitin-kumar-chak-6b0a071ba/">
-  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-&nbsp;
-<a href="http://jitin-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/See%20My%20Work-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+I build products, not just projects.
