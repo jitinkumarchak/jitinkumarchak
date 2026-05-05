@@ -37,11 +37,12 @@
 ## 📈 GitHub Stats
  
 <div align="center">
-![Jitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Jitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitinkumarchak&show_icons=true&theme=radical)
+
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&layout=compact&theme=radical)
  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=jitinkumarchak&theme=tokyonight&hide_border=true)
  
 </div>
 
