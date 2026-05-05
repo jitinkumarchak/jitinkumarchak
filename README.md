@@ -4,7 +4,7 @@
 * 💻 Frontend-focused Full Stack Developer (React, Next.js)
 * 🧠 Solving DSA & building scalable systems
 * 📫 Reach me at: **[jitin42013@gmail.com](mailto:jitin42013@gmail.com)**
-* 🌐 Portfolio: [Your Portfolio Link]
+* 🌐 [Portfolio](https://jitin-dev.vercel.app/)
 
 ---
 
@@ -22,26 +22,14 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge\&logo=tailwindcss)
 
 ---
-
-## 🧠 What I’m Building
-
-### 🚀 CampusVerse
-
-* 🌍 Global student networking platform
-* 💬 Real-time chat, events, internships, blogs
-* 🧑‍💻 Full-stack architecture (React + Node + PostgreSQL)
-* ⚡ Scalable APIs with RBAC, JWT, pagination
-
----
-
 ## 📈 GitHub Stats
  
 <div align="center">
-![Jitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitinkumarchak&show_icons=true&theme=radical)
 
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jitinkumarchak&show_icons=true&theme=tokyonight)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkumarchak&layout=compact&theme=radical)
- 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jitinkumarchak&layout=compact&theme=tokyonight&count_private=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=jitinkumarchak&theme=tokyonight&hide_border=true)
  
 </div>
