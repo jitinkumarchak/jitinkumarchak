@@ -24,23 +24,22 @@
 ---
 ## 📈 GitHub Stats
  
-<div align="center">
+<div align="start">
 
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jitinkumarchak&show_icons=true&theme=tokyonight)
- 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jitinkumarchak&layout=compact&theme=tokyonight&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jitinkumarchak&theme=tokyonight&hide_border=true)
  
 </div>
 
-## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](YOUR_LINK)
+## 🌐 Connect with me
 
----
+[![Portfolio](https://skillicons.dev/icons?i=instagram)]([https://yourportfolio.com](https://www.instagram.com/jitinkumarchak))&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jitin-kumar-chak)&nbsp;
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/iamjitin_11)&nbsp;
+[![Discord](https://skillicons.dev/icons?i=vercel)]((https://jitin-dev.vercel.app/))&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jitin42013@gmail.com)
 
-## ⚡ Fun Fact
 
-I build products, not just projects.
+
