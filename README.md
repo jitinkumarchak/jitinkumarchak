@@ -27,8 +27,6 @@
 <div align="start">
 
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jitinkumarchak&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jitinkumarchak&theme=tokyonight&hide_border=true)
  
 </div>
 
