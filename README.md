@@ -3,7 +3,7 @@
 * 🚀 Building **CampusVerse** – a global student platform
 * 💻 Frontend-focused Full Stack Developer (React, Next.js)
 * 🧠 Solving DSA & building scalable systems
-* 📫 Reach me at: **[jitin42013@gmail.com](mailto:jitin42013@gmail.com)**
+* 📫 Reach me at: **[jitin42013@gmail.com](mailto:jitinkumarchak@gmail.com)**
 * 🌐 [Portfolio](https://jitin-dev.vercel.app/)
 
 ---
