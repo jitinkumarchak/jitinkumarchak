@@ -4,7 +4,7 @@
 * 💻 Frontend-focused Full Stack Developer (React, Next.js)
 * 🧠 Solving DSA & building scalable systems
 * 📫 Reach me at: **[jitinkumarchak@gmail.com](mailto:jitinkumarchak@gmail.com)**
-* 🌐 [Portfolio](https://jitin-dev.vercel.app/)
+* 🌐 [Portfolio](https://jitin.vercel.app/)
 
 ---
 
