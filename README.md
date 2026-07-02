@@ -1,4 +1,4 @@
-# Hi there, I'm Jitin Kumar Chak 👋
+# Hello, I'm Jitin Kumar Chak 👋
 
 * 🚀 Building **CampusVerse** – a global student platform
 * 💻 Frontend-focused Full Stack Developer (React, Next.js)
