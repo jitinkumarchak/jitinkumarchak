@@ -1,10 +1,9 @@
 # Hello, I'm Jitin Kumar Chak 👋
 
-* 🚀 Building **CampusVerse** – a global student platform
-* 💻 Frontend-focused Full Stack Developer (React, Next.js)
-* 🧠 Solving DSA & building scalable systems
+* 💻 Aspiring Software Engineer - Full Stack Developer
+* 🧠 Problem solving & building scalable systems
 * 📫 Reach me at: **[jitinkumarchak@gmail.com](mailto:jitinkumarchak@gmail.com)**
-* 🌐 [Portfolio](https://jitin.vercel.app/)
+* 🌐 [Jitin.Fyi](https://jitin.vercel.app/)
 
 ---
 
